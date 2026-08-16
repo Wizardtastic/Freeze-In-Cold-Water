@@ -1,2 +1,1 @@
-# Freeze In Cold Water
-Changes water to give the freezing effect when it is snowing or you are within a variable distance from ice. Negated with a boat or a piece of leather armour.
+After seeing a reddit post a while back talking about a feature like this, I was inspired to make a mod implementing it. This mod makes it so that when you are in water and it is either snowing or there is ice near the water (Configurable), you start to freeze. This does not occur if you are in a boat or wearing a piece of leather armour.

@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "waterfreeze",
+    "version": "1.0.0",
+    "name": "Water Freeze Mod",
+    "description": "Water freezes players when snowing or near ice. Leather armor or boats provide protection.",
+    "authors": ["Walker"],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/waterfreeze/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": ["com.waterfreeze.WaterFreezeMod"]
+    },
+
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
